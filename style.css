@@ -1,0 +1,38 @@
+html,body {
+    height:98%;
+    width:98%;
+    text-align:center;
+}
+#box{
+    height:90%;
+    width:100%;
+    border:2px solid green;
+    text-align:center;
+    display:inline-block;
+    background-color:#444;
+}
+#button{
+    height:8%;
+    width:100%;
+    display:inline-block ;
+    border:2px solid green;
+}
+#pl1,#pl2,#pl3,#pl4,#pl5,#pl6,#pl7,#pl8,#pl9{
+    position:absolute;
+    border:1px solid white;
+    background-color:green;
+    bottom:13%;
+    height:5%;
+    //width:96%;
+    width:8%;
+    color:white;
+    display:inline-block;
+}
+button{
+    width:50%;
+    height:100%;
+    float:left;
+    color:white;
+}
+#btn1{background-color:gray;}
+#btn2{background-color:black;}
